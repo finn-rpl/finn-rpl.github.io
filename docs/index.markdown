@@ -3,23 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Test title
+title: Home
 ---
-# test header 1
 
-## test header 2
+## I will package the following into posts for date control.  
+[Analysis of Variance Within and Between icSHAPE Datasets](fig3a.html)
 
-### test header3
-test
-
-test main text
-
-```bash
-
-echo test_code
-```
-
-
-
-[fig3a](fig3a.html)
+[Reproduction of graphs from Shi et al. (2020)](fig3b.html)
 

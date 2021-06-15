@@ -5,9 +5,15 @@
 layout: home
 title: Home
 ---
+# Projects
+
+## [Project DiffStruct](diffstruct/diffstruct.html)
+## [Project ConStruct](construct/construct.html)
+## [Project AltChem](altchem/altchem.html)
+## [Project Nano](nano/nano.html)
+
 
 ## I will package the following into posts for date control.  
-[Analysis of Variance Within and Between icSHAPE Datasets](fig3a.html)
+[Analysis of Variance Within and Between icSHAPE Datasets](diffstruct/fig3a.html)
 
-[Reproduction of graphs from Shi et al. (2020)](fig3b.html)
-
+[Reproduction of graphs from Shi et al. (2020)](diffstruct/fig3b.html)
